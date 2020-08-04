@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  background: transparent;
+  font-family: Avenir, sans-serif;
+}
+
+
+.fa-heart, .fa-diamond {
+  color: #BF3B53;
+}
+
+.fa-spade, .fa-club {
+  color: black;
+}
