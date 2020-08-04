@@ -43,8 +43,6 @@ Before the start of each round the players make a prediction about the number of
 **Playing:**
 Once all players have made predictions have been made, the round begins in which players play a series of hands. Once all hands are complete, the number of hands won by each player are tallied and compared against the number of hands predicted by each player. If the prediction turns out to be correct, the players recieves points, however if it is incorrect, the player recieves no points for that round.
 
----
-
 ### Hand
 - The number of hands played in each round is equal to the number of cards dealt that round. 
 - The player who predicts the most number of hands in the prediction phase of the round is given the opportunity of beginning the first hand. 
