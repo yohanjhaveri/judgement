@@ -89,4 +89,4 @@ The tables below show the suit and value heirarchy where the suits / values high
 At the end of each round, players are scored based on how well they predicted. 
 - If the predicted number of hands equals the number of hands won for a specific player, the player recieves **10 + predicted number of hands** points for that round. 
 - If the predicted number of hands does not equal the number of hands won for a specific player, the player recieves 0 points for that round.
-Once all rounds are complete, the game ends and the points won across all rounds are totaled for each player. The player with the most points wins the game.
+- Once all rounds are complete, the game ends and the points won across all rounds are totaled for each player. The player with the most points wins the game.
