@@ -1,9 +1,13 @@
 # Judgement - Card Game
-Judgement is a fun 2 - 4 player card game that is played with a standard deck of 52 cards. The game requires players to possess great predictive and analytical skills to succeed.
+- Judgement is a fun 2 - 4 player card game that is played with a standard deck of 52 cards. 
+- The game requires players to possess great predictive and analytical skills to succeed.
 
 ## Rules
 ### Game
-A game of judgement has a total of 14 rounds in which each player is dealt an equal number of cards. The number of cards dealt to each player depends on the round and uniformly decreases from 7 - 1 for the first 7 rounds and then uniformly increases from 1 - 7 for the last 7 rounds. Each round also has a corresponsing **joker** which refers to one of the four suits. This **joker** changes each in the repeating pattern: :spades: :hearts: :clubs: :diamonds:. The table below illustrates the relationship between the round, number of cards dealt and the joker. The players take turns dealing each round with the dealer responsibility moving to the next player after each round in clockwise direction.
+- A game of judgement has a total of 14 rounds in which each player is dealt an equal number of cards. 
+- The number of cards dealt to each player depends on the round and uniformly decreases from 7 - 1 for the first 7 rounds and then uniformly increases from 1 - 7 for the last 7 rounds. 
+- Each round also has a corresponsing **joker** which refers to one of the four suits. This **joker** changes each in the repeating pattern: :spades: :hearts: :clubs: :diamonds:. The table below illustrates the relationship between the round, number of cards dealt and the joker. 
+- The players take turns dealing each round with the dealer responsibility moving to the next player after each round in clockwise direction.
 
 | Round | Cards | Joker |
 | ----------- | ----------- | ----------- |
@@ -37,13 +41,20 @@ Before the start of each round the players make a prediction about the number of
 - Prediction #4 is invalid because the total number of hands predicted cannot equal to number of cards dealt that round
 
 **Playing:**
-Once all players have made predictions have been made, the round begins in which players play a series of hands. 
+Once all players have made predictions have been made, the round begins in which players play a series of hands. Once all hands are complete, the number of hands won by each player are tallied and compared against the number of hands predicted by each player. If the prediction turns out to be correct, the players recieves points, however if it is incorrect, the player recieves no points for that round.
 
 ---
 
 ### Hand
-The number of hands played in each round is equal to the number of cards dealt that round. The player who predicts the most number of hands in the prediction phase of the round is given the opportunity of beginning the first hand. The involves all players, in turns, moving clockwise from the player who started the round, must place a valid card of their choosing, from the cards they have been dealt, at the center of the table. The suit of the first card that was played in the hand determines the primary suit of the hand. What this means is that players following the starting player, must play a card of the same suit as what was played by the first player. If they do not have any card of that suit, they are free to play any card they have. The hand ends when everyone has played a card, and the hand is won by the player who plays the best card. After the hand is completed, all played cards are discarded for the rest of the round. Each subsequent hand is started by the winner of the previous round
-
+- The number of hands played in each round is equal to the number of cards dealt that round. 
+- The player who predicts the most number of hands in the prediction phase of the round is given the opportunity of beginning the first hand. 
+- The involves all players, in turns, moving clockwise from the player who started the round, must place a valid card of their choosing, from the cards they have been dealt, at the center of the table. 
+- The suit of the first card that was played in the hand determines the primary suit of the hand. 
+- What this means is that players following the starting player, must play a card of the same suit as what was played by the first player. 
+- If they do not have any card of that suit, they are free to play any card they have. 
+- The hand ends when everyone has played a card, and the hand is won by the player who plays the best card. 
+- After the hand is completed, all played cards are discarded for the rest of the round. 
+- Each subsequent hand is started by the winner of the previous hand.
 
 ### Heirarchy
 The best card of the round is determined by a combination of suit heirarchy and value heirarchy
@@ -72,11 +83,10 @@ The tables below show the suit and value heirarchy where the suits / values high
 | 3 | 
 | 2 |
 
-*Since there must always be a primary suit in each hand (since the primary suit is the starting suit, a situation where all cards are from the remaining suits category cannot exist and therefore there is always a hand winning card)*
+*\*Since there must always be a primary suit in each hand (since the primary suit is the starting suit, a situation where all cards are from the remaining suits category cannot exist and therefore there is always a hand winning card)*
 
 ### Scoring
-
-Each round is made up of hands, in which players play one of their cards in order. The number of hands in each round is equal to the number of cards that have been dealt for the round. 
-
-
-Each player takes turns to start each round
+At the end of each round, players are scored based on how well they predicted. 
+- If the predicted number of hands equals the number of hands won for a specific player, the player recieves **10 + predicted number of hands** points for that round. 
+- If the predicted number of hands does not equal the number of hands won for a specific player, the player recieves 0 points for that round.
+Once all rounds are complete, the game ends and the points won across all rounds are totaled for each player. The player with the most points wins the game.
