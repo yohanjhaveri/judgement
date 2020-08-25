@@ -5,8 +5,8 @@
 Website: www.playjudgement.web.app
 
 <p>
-  <img width="400" alt="Create Room" src="https://user-images.githubusercontent.com/35095726/91213603-79bb0400-e72f-11ea-8e2a-c484ba806482.png">
-  <img width="400" alt="Join Room" src="https://user-images.githubusercontent.com/35095726/91213826-cbfc2500-e72f-11ea-8434-fc22fed19490.png">
+  <img width="400" alt="Predicting" src="https://user-images.githubusercontent.com/35095726/91214101-3e6d0500-e730-11ea-8742-1f08a66055a3.png">
+  <img width="400" alt="Gameplay" src="https://user-images.githubusercontent.com/35095726/91214210-678d9580-e730-11ea-974a-4d56ce39f988.png">
 </p>
 
 
