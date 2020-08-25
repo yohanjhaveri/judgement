@@ -5,7 +5,10 @@
 Website: www.playjudgement.web.app
 
 <p>
+  <h4><em> Predicting <em></h4>
   <img width="400" alt="Predicting" src="https://user-images.githubusercontent.com/35095726/91214101-3e6d0500-e730-11ea-8742-1f08a66055a3.png">
+    
+  <h4><em> Gameplay <em></h4>
   <img width="400" alt="Gameplay" src="https://user-images.githubusercontent.com/35095726/91214210-678d9580-e730-11ea-974a-4d56ce39f988.png">
 </p>
 
